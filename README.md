@@ -13,5 +13,5 @@
 
 
 <p>
-Technologies used:<br> vanilla Javascript<br> CSS<br> HTML<br>
+  <strong>Technologies used:</strong><br> vanilla Javascript<br> CSS<br> HTML<br>
 </p>
