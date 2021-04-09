@@ -9,4 +9,4 @@
 4. Choose the type of workout<br>
 5. There is a local storage implemented to save your data<br>
 
-Technologies used: vanilla Javascript, CSS, HTML
+Technologies used:<br> vanilla Javascript<br> CSS<br> HTML<br>
