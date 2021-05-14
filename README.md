@@ -15,3 +15,5 @@
 <p>
   <strong>Technologies used:</strong><br> vanilla Javascript<br> CSS<br> HTML<br>
 </p>
+
+<strong> Use of leaflet library along with positioning and local storage </strong>
